@@ -6,7 +6,8 @@ is your plan. Commit message: `Add my arcade plan!`
 
 ## Games I chose
 
-(Three from the menu, four if you are working with a partner.)
+(Three from the menu, four if you are working with a partner. At most one
+easy pick, at most two with a partner.)
 
 - Game 1:
 - Game 2:
