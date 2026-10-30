@@ -6,13 +6,12 @@ is your plan. Commit message: `Add my arcade plan!`
 
 ## Games I chose
 
-(Three from the menu, four if you are working with a partner. At most two
-easy picks, only one with a partner.)
+(Three from the menu. At most two easy picks.)
 
 - Game 1:
 - Game 2:
 - Game 3:
-- Game 4 (partners):
+- Game 4 (optional bonus):
 
 ## Game 1: (name)
 
@@ -35,7 +34,7 @@ easy picks, only one with a partner.)
 - How it ends (win, lose, or out of turns):
 - How a score is earned:
 
-## Game 4: (name, partnered only)
+## Game 4: (name, optional bonus)
 
 - Rules, in a few sentences:
 - What one turn looks like:
